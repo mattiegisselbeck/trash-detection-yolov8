@@ -21,7 +21,7 @@
 </code></pre></div>
 
  <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="conda create --name yolov5 python=3.8"><pre lang="no-highlight" class="notranslate">
-<code> conda create --name yolov5 python=3.8
+<code>conda create --name yolov5 python=3.8
 </code></pre></div>
 
  <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="conda activate yolov5
