@@ -6,11 +6,12 @@
 <p>Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and <em>Markdown Here</em> -- support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. <em>Markdown Here</em> supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the <a href="http://softwaremaniacs.org/media/soft/highlight/test.html" rel="nofollow">highlight.js demo page</a>.</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Inline `code` has `back-ticks around` it."><pre lang="no-highlight" class="notranslate">
 <code> Inline `code` has `back-ticks around` it.
-</code>
-</pre>
-</div>
+</code></pre></div>
 
-<code> Inline </code>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Inline `code` has `back-ticks around` it."><pre lang="no-highlight" class="notranslate">
+<code> Inline `code` has `back-ticks around` it.
+</code></pre></div>
+
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="```javascript
 alert(s);
 ```
