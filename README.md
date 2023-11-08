@@ -16,15 +16,8 @@
 <code> pip install -r requirements.txt 
 </code></pre></div>
 
-<p> Part 2 </p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd /Users/mattiegisselbeck/yolov5
-conda create --name yolov5 python=3.8 # YOLOv5 requires Python 3.8
-conda activate yolov5"><pre lang="no-highlight" class="notranslate">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd /Users/mattiegisselbeck/yolov5"><pre lang="no-highlight" class="notranslate">
 <code> cd /Users/mattiegisselbeck/yolov5
-conda create --name yolov5 python=3.8 # YOLOv5 requires Python 3.8
-conda activate yolov5
 </code></pre></div>
-
-
  
 
