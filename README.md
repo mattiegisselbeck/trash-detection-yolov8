@@ -19,5 +19,13 @@
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd /Users/mattiegisselbeck/yolov5"><pre lang="no-highlight" class="notranslate">
 <code> cd /Users/mattiegisselbeck/yolov5
 </code></pre></div>
- 
+
+ <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="conda create --name yolov5 python=3.8"><pre lang="no-highlight" class="notranslate">
+<code> conda create --name yolov5 python=3.8
+</code></pre></div>
+
+ <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="conda activate yolov5
+"><pre lang="no-highlight" class="notranslate">
+conda activate yolov5
+</code></pre></div>
 
