@@ -9,7 +9,6 @@
 <p>Inline <code>code</code> has <code>back-ticks around</code> it.</p>
 <p>Blocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="```javascript
-var s = &quot;JavaScript syntax highlighting&quot;;
 alert(s);
 ```
  
