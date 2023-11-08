@@ -8,8 +8,12 @@
 <code> git clone https://github.com/ultralytics/yolov5 
 </code></pre></div>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Inline `code` has `back-ticks around` it."><pre lang="no-highlight" class="notranslate">
-<code> Inline `code` has `back-ticks around` it.
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd yolov5"><pre lang="no-highlight" class="notranslate">
+<code> cd yolov5
+</code></pre></div>
+
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="pip install -r requirements.txt"><pre lang="no-highlight" class="notranslate">
+<code> pip install -r requirements.txt 
 </code></pre></div>
 
 
