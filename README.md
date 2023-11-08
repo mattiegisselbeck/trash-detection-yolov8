@@ -13,5 +13,3 @@ print s" tabindex="0" role="button">
     </clipboard-copy>
   </div>
 </div>
-  <pre><span class="pl-s1">s</span> <span class="pl-c1">=</span> <span class="pl-s">"Python syntax highlighting"</span>
-<span class="pl-k">print</span> <span class="pl-s1">s</span></pre>
