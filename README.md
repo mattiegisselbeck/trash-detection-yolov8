@@ -15,7 +15,7 @@
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="pip install -r requirements.txt"><pre lang="no-highlight" class="notranslate">
 <code> pip install -r requirements.txt 
 </code></pre></div>
-<p>2. Create a Anaconda Environment for YOLOv8</p>
+<p>2. Create an Anaconda Environment for YOLOv8</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd /Users/mattiegisselbeck/yolov5"><pre lang="no-highlight" class="notranslate">
 <code> cd /Users/mattiegisselbeck/yolov5
 </code></pre></div>
